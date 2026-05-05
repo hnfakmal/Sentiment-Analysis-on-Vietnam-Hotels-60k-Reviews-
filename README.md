@@ -3,6 +3,10 @@
 This repository contains a Python-based data engineering pipeline designed to scrape, clean, and translate multilingual TripAdvisor reviews for **Vietnam Hotels**
 
 ---
+<img width="995" height="660" alt="image" src="https://github.com/user-attachments/assets/5f6d276d-97c6-426f-9074-4c70dd813498" />
+
+<img width="996" height="661" alt="image" src="https://github.com/user-attachments/assets/39551077-edb6-4be2-bd3d-865a05a50d59" />
+
 
 ## 🛠️ Features
 
