@@ -42,7 +42,8 @@ This repository contains a Python-based data engineering pipeline designed to sc
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/mekong-home-analysis.git
+   git clone https://github.com/hnfakmal/Sentiment-Analysis-on-Vietnam-Hotels-60k-Reviews-
+.git
    ```
 
 2. **Install dependencies:**
