@@ -28,7 +28,6 @@ This repository contains a Python-based data engineering pipeline designed to sc
 
 ```bash
 ├── data/
-│   ├── raw_reviews.xlsx          # Initial scraped data with encoding issues
 │   └── translated_output.xlsx    # Final cleaned English dataset
 ├── scripts/
 │   ├── scraper.py                # Selenium script for Google Maps
@@ -37,6 +36,10 @@ This repository contains a Python-based data engineering pipeline designed to sc
 ```
 
 ---
+📊 Dataset
+Access the raw, unprocessed data here:
+
+🔗 [https://zenodo.org/records/7967494]
 
 ## ⚙️ Installation & Usage
 
